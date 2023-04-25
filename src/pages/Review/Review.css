@@ -23,6 +23,9 @@
   height: 300px;
   height: 100px;
   overflow: scroll;
+  display:flex;
+  justify-content: center;
+  text-align: center;
 }
 .listacomentarios {
   display: flex;

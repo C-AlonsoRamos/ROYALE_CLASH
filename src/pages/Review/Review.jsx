@@ -84,7 +84,6 @@ const Review = () => {
         <input
           type="text"
           ref={inputRev}
-          placeholder="Leave your comment"
           maxLength={30}
           className="inputreview"
           style={
